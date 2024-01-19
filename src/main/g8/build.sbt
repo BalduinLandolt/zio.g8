@@ -2,7 +2,7 @@ ThisBuild / scalaVersion     := "3.3.1"
 ThisBuild / version          := "0.1.0-SNAPSHOT"
 ThisBuild / organization     := "com.example"
 ThisBuild / organizationName := "example"
-ThisBuild / description      := "$description$"
+ThisBuild / description      := "ZIO template project"
 
 // for more ZIO libraries, see https://zio.dev/ecosystem/
 

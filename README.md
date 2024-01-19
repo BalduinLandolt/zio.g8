@@ -1,4 +1,16 @@
-A [Giter8][g8] template for ZIO!
+# zio.g8
+
+A "getting started" [Giter8][g8] template for ZIO applications.
+
+Contains the basic scaffolding of a new ZIO app, 
+and a number of commented-out dependencies that can easily be added by un-commenting them.
+
+Usage:
+
+```bash
+sbt new BalduinLandolt/zio.g8
+```
+
 
 Template license
 ----------------
